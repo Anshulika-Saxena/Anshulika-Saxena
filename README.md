@@ -10,7 +10,7 @@ I hold a graduate honors bachelor's degree in Biotechnology and I’ve worked on
 I’ve gathered hands-on experience in both wet lab and dry lab settings, bringing together practical and computational insights!
 
 **Career Interests:** 
-Focused on health informatics, medical data science, and the pharmaceutical corporate landscape 💊
+Focused on health informatics, medical data science, and the pharmaceutical corporate landscape 
 
 **Technical Skills:**
 Familiar with Java ☕, some Biopython 🐍, and MATLAB 📈
