@@ -14,7 +14,8 @@ Focused on health informatics, medical data science, and the pharmaceutical corp
 
 **Technical Skills:**
 Familiar with Java ☕, some Biopython 🐍, and MATLAB 📈
---------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
 Outside of science, I’m a half self-taught, half-trained pianist 🎹 and a trained Hindustani classical vocalist.
 I also enjoy filming, editing videos, reading, painting, and I have a keen interest in art history and literature :) 
 
